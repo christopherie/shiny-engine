@@ -1,0 +1,13 @@
+C:\Users\Christopher\source\repos\ABMWebService\bin\ABMWebService.dll.config
+C:\Users\Christopher\source\repos\ABMWebService\bin\ABMWebService.dll
+C:\Users\Christopher\source\repos\ABMWebService\bin\ABMWebService.pdb
+C:\Users\Christopher\source\repos\ABMWebService\bin\roslyn\csc.exe
+C:\Users\Christopher\source\repos\ABMWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Christopher\source\repos\ABMWebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Christopher\source\repos\ABMWebService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Christopher\source\repos\ABMWebService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Christopher\source\repos\ABMWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Christopher\source\repos\ABMWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Christopher\source\repos\ABMWebService\obj\Debug\ABMWebService.csproj.CopyComplete
+C:\Users\Christopher\source\repos\ABMWebService\obj\Debug\ABMWebService.dll
+C:\Users\Christopher\source\repos\ABMWebService\obj\Debug\ABMWebService.pdb
